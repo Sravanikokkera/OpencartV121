@@ -1,0 +1,719 @@
+01:27:12.246 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Admin\AppData\Local\Temp\testng-eclipse-1109734229\testng-customsuite.xml"
+01:27:12.556 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:27:12.559 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+01:27:12.562 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:27:12.562 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:27:12.564 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:27:12.564 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:27:12.565 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:27:12.566 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+01:27:12.576 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+01:27:12.594 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 16 ms.
+01:27:12.596 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:27:12.597 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:27:12.598 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:27:12.599 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:27:12.600 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:27:12.600 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:27:12.602 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:27:12.602 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:27:12.603 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:27:12.603 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:27:12.608 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:27:12.608 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:27:12.609 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:27:12.609 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:27:12.611 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:27:12.612 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:27:12.615 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:27:12.616 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:27:12.617 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:27:12.617 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:27:12.631 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\Admin\AppData\Local\Temp\testng-eclipse-1109734229\testng-customsuite.xml
+
+01:27:12.669 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+01:27:19.647 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+01:27:19.902 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link
+01:27:20.854 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on Register Link
+01:27:20.858 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing Customer Details
+01:27:23.389 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating Expected Message...
+01:27:24.109 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.jq.Main@7bb35cc6: 121 ms
+01:27:24.128 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.FailedReporter@1c504e66: 19 ms
+01:27:24.151 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.XMLReporter@17b64941: 22 ms
+01:27:24.164 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@76c52298: 12 ms
+01:27:24.195 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@314c8b4a: 31 ms
+01:27:24.196 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.internal.ExitCodeListener@26d820eb: 1 ms
+01:37:30.887 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Admin\AppData\Local\Temp\testng-eclipse-1526306729\testng-customsuite.xml"
+01:37:31.201 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+01:37:31.207 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+01:37:31.210 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:37:31.211 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:37:31.213 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:37:31.214 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:37:31.216 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:37:31.217 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:37:31.233 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+01:37:31.252 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 17 ms.
+01:37:31.255 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:37:31.257 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:37:31.259 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:37:31.260 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:37:31.262 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:37:31.262 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:37:31.264 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:37:31.265 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:37:31.266 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:37:31.266 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:37:31.271 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:37:31.272 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:37:31.272 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:37:31.273 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:37:31.276 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:37:31.277 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:37:31.279 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:37:31.280 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:37:31.280 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:37:31.280 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:37:31.296 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\Admin\AppData\Local\Temp\testng-eclipse-1526306729\testng-customsuite.xml
+
+01:37:31.359 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+01:37:41.272 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+01:37:41.561 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link
+01:37:42.338 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on Register Link
+01:37:42.346 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing Customer Details
+01:37:44.465 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating Expected Message...
+01:37:44.521 [main] ERROR testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:55)oggger - Test Failed.
+01:37:44.521 [main] DEBUG testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:56)oggger - Debug logs...
+01:37:45.190 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.jq.Main@7bb35cc6: 125 ms
+01:37:45.202 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.FailedReporter@1c504e66: 12 ms
+01:37:45.225 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.XMLReporter@17b64941: 22 ms
+01:37:45.234 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@76c52298: 8 ms
+01:37:45.243 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@314c8b4a: 8 ms
+01:37:45.243 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.internal.ExitCodeListener@26d820eb: 0 ms
+00:53:55.192 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml"
+00:53:55.724 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml
+
+00:54:46.118 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+00:54:46.499 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link
+00:54:47.445 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on Register Link
+00:54:47.448 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing Customer Details
+00:54:50.671 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating Expected Message...
+00:54:50.731 [main] ERROR testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:55)oggger - Test Failed.
+00:54:50.732 [main] DEBUG testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:56)oggger - Debug logs...
+01:00:25.205 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\crossBrowserTesting.xml"
+01:07:38.291 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\crossBrowserTesting.xml"
+01:07:38.710 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\crossBrowserTesting.xml
+
+01:08:22.048 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+01:08:22.377 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link
+01:08:25.608 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on Register Link
+01:08:25.623 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing Customer Details
+01:08:29.928 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating Expected Message...
+01:08:29.972 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+01:08:30.573 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link
+01:08:32.775 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+01:08:33.040 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link
+01:08:34.826 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on Register Link
+01:08:34.828 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing Customer Details
+01:08:34.898 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on Register Link
+01:08:34.900 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing Customer Details
+01:08:37.820 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating Expected Message...
+01:08:38.402 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating Expected Message...
+01:12:20.367 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\crossBrowserTesting.xml"
+01:12:20.767 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\crossBrowserTesting.xml
+
+01:12:48.713 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+01:12:49.329 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link
+01:12:49.959 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+01:12:50.275 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link
+01:12:51.129 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+01:12:51.345 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link
+01:12:52.577 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on Register Link
+01:12:52.581 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing Customer Details
+01:12:55.718 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating Expected Message...
+01:12:56.178 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on Register Link
+01:12:56.181 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing Customer Details
+01:12:56.258 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on Register Link
+01:12:56.259 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing Customer Details
+01:12:59.285 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating Expected Message...
+01:12:59.505 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating Expected Message...
+01:16:46.022 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\crossBrowserTesting.xml"
+01:16:46.513 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\crossBrowserTesting.xml
+
+01:17:13.818 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+01:17:14.214 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link
+01:17:16.929 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+01:17:17.177 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link
+01:17:18.750 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on Register Link
+01:17:18.763 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing Customer Details
+01:17:19.115 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+01:17:19.509 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link
+01:17:22.395 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on Register Link
+01:17:22.397 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing Customer Details
+01:17:22.562 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating Expected Message...
+01:17:22.675 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:67)oggger - *** Finished TC001_AccountRegistrationTest ***
+01:17:23.058 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on Register Link
+01:17:23.059 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing Customer Details
+01:17:26.047 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating Expected Message...
+01:17:26.114 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating Expected Message...
+01:17:26.157 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:67)oggger - *** Finished TC001_AccountRegistrationTest ***
+01:17:26.273 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:67)oggger - *** Finished TC001_AccountRegistrationTest ***
+01:26:53.107 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\crossBrowserTesting.xml"
+01:26:53.523 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\crossBrowserTesting.xml
+
+01:27:06.260 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+01:27:06.535 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link
+01:27:07.739 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on Register Link
+01:27:07.749 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing Customer Details
+01:27:09.801 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating Expected Message...
+01:27:09.875 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:67)oggger - *** Finished TC001_AccountRegistrationTest ***
+01:29:39.902 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+01:29:40.133 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link
+01:29:41.925 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on Register Link
+01:29:41.927 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing Customer Details
+01:29:43.484 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating Expected Message...
+01:29:53.596 [TestNG-tests-3] ERROR testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:55)oggger - Test Failed.
+01:29:53.597 [TestNG-tests-3] DEBUG testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:56)oggger - Debug logs...
+14:35:34.346 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\crossBrowserTesting.xml"
+14:35:34.914 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\crossBrowserTesting.xml
+
+14:36:18.169 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+14:36:18.795 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link
+14:36:20.805 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on Register Link
+14:36:20.930 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing Customer Details
+14:36:24.527 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating Expected Message...
+14:37:53.185 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\crossBrowserTesting.xml"
+14:37:53.610 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\crossBrowserTesting.xml
+
+14:38:16.547 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+14:38:23.949 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link
+14:38:26.773 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on Register Link
+14:38:26.900 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing Customer Details
+14:38:31.569 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating Expected Message...
+14:38:32.292 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:67)oggger - *** Finished TC001_AccountRegistrationTest ***
+14:38:59.470 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+14:39:01.830 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link
+14:39:06.775 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on Register Link
+14:39:06.776 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing Customer Details
+14:39:58.899 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating Expected Message...
+14:40:01.007 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:67)oggger - *** Finished TC001_AccountRegistrationTest ***
+14:44:21.070 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+14:44:21.287 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link
+14:44:24.438 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on Register Link
+14:44:24.438 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing Customer Details
+14:44:27.132 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating Expected Message...
+14:44:27.198 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:67)oggger - *** Finished TC001_AccountRegistrationTest ***
+14:44:35.006 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+14:44:35.218 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link
+14:44:36.463 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on Register Link
+14:44:36.466 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing Customer Details
+14:44:39.079 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating Expected Message...
+14:44:39.135 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:67)oggger - *** Finished TC001_AccountRegistrationTest ***
+18:20:59.159 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml"
+18:20:59.649 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml
+
+18:21:19.218 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+18:21:19.787 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link
+18:21:21.081 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on Register Link
+18:21:21.087 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing Customer Details
+18:21:25.615 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating Expected Message...
+18:21:25.757 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:67)oggger - *** Finished TC001_AccountRegistrationTest ***
+20:56:47.095 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml"
+20:56:47.576 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml
+
+20:56:59.430 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:20)oggger - ***Starting TC002_LoginTest  .... ***
+21:00:12.011 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml"
+21:00:12.403 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml
+
+21:00:23.864 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:18)oggger - ***Starting TC002_LoginTest  .... ***
+21:06:16.580 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml"
+21:06:17.014 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml
+
+21:06:23.859 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:18)oggger - ***Starting TC002_LoginTest  .... ***
+21:08:43.138 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml"
+21:08:43.577 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml
+
+21:08:52.445 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:18)oggger - ***Starting TC002_LoginTest  .... ***
+21:08:54.533 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:42)oggger - ***  Finished TC002_LoginTest .... ***
+01:07:37.015 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml"
+01:24:47.626 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml"
+01:34:06.507 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml"
+01:34:08.937 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml
+
+01:41:43.432 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml"
+01:41:43.800 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml
+
+11:18:28.338 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml"
+11:18:31.288 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml
+
+11:29:14.668 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml"
+11:29:15.121 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml
+
+11:29:31.373 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:29:31.379 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:29:31.382 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+11:29:32.861 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:29:32.864 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:29:32.871 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+11:29:32.937 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:29:32.940 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:29:32.944 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+11:29:33.008 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:29:33.011 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:29:33.013 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+11:29:33.075 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:29:33.077 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:29:33.080 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+11:29:33.131 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:29:33.134 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:29:33.135 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+11:40:27.611 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml"
+11:40:27.988 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml
+
+11:40:37.027 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:40:37.057 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:40:37.062 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+11:40:37.918 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:40:37.929 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:40:37.931 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+11:40:38.031 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:40:38.034 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:40:38.038 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+11:40:38.086 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:40:38.088 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:40:38.090 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+11:40:38.126 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:40:38.128 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:40:38.129 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+11:40:38.169 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:40:38.171 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:40:38.172 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+11:47:40.555 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml"
+11:47:40.941 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml
+
+11:47:48.569 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:47:48.575 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:47:48.578 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+11:47:49.444 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:47:49.447 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:47:49.457 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+11:47:49.544 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:47:49.546 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:47:49.550 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+11:47:49.609 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:47:49.612 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:47:49.613 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+11:47:49.651 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:47:49.653 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:47:49.655 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+11:47:49.693 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:47:49.695 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:47:49.697 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+11:47:49.731 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:47:49.734 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:47:49.736 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+11:47:49.770 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:47:49.772 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:47:49.773 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+11:47:49.811 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:47:49.812 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:47:49.814 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+11:47:49.849 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:47:49.851 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:47:49.853 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+11:47:49.885 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:47:49.887 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:47:49.891 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+11:47:49.925 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:47:49.926 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:47:49.928 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+11:47:49.963 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:47:49.964 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:47:49.966 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+11:47:50.009 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:47:50.011 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:47:50.019 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+11:47:50.066 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:47:50.068 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:47:50.069 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+11:47:50.107 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:47:50.108 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:47:50.110 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+11:47:50.262 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:47:50.266 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:47:50.268 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+11:47:50.346 [main] INFO  testCases.TC003_LoginDDT.verify_ligiDDT(TC003_LoginDDT.java:19)oggger - ***Starting TC003_LoginDDT...***
+11:47:54.177 [main] INFO  testCases.TC003_LoginDDT.verify_ligiDDT(TC003_LoginDDT.java:73)oggger - ***Finished TC003_LoginDDT...***
+11:47:54.200 [main] INFO  testCases.TC003_LoginDDT.verify_ligiDDT(TC003_LoginDDT.java:19)oggger - ***Starting TC003_LoginDDT...***
+11:48:05.784 [main] INFO  testCases.TC003_LoginDDT.verify_ligiDDT(TC003_LoginDDT.java:73)oggger - ***Finished TC003_LoginDDT...***
+11:48:05.791 [main] INFO  testCases.TC003_LoginDDT.verify_ligiDDT(TC003_LoginDDT.java:19)oggger - ***Starting TC003_LoginDDT...***
+11:48:17.210 [main] INFO  testCases.TC003_LoginDDT.verify_ligiDDT(TC003_LoginDDT.java:73)oggger - ***Finished TC003_LoginDDT...***
+11:48:17.216 [main] INFO  testCases.TC003_LoginDDT.verify_ligiDDT(TC003_LoginDDT.java:19)oggger - ***Starting TC003_LoginDDT...***
+11:48:28.107 [main] INFO  testCases.TC003_LoginDDT.verify_ligiDDT(TC003_LoginDDT.java:73)oggger - ***Finished TC003_LoginDDT...***
+11:48:28.115 [main] INFO  testCases.TC003_LoginDDT.verify_ligiDDT(TC003_LoginDDT.java:19)oggger - ***Starting TC003_LoginDDT...***
+11:48:30.054 [main] INFO  testCases.TC003_LoginDDT.verify_ligiDDT(TC003_LoginDDT.java:73)oggger - ***Finished TC003_LoginDDT...***
+12:19:47.764 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml"
+12:19:48.242 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml
+
+12:19:57.841 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:19:57.850 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:19:57.857 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:19:58.997 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:19:59.000 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:19:59.003 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:19:59.055 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:19:59.057 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:19:59.061 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:19:59.151 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:19:59.159 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:19:59.162 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:19:59.212 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:19:59.214 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:19:59.216 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:19:59.260 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:19:59.262 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:19:59.264 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:19:59.307 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:19:59.309 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:19:59.313 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:19:59.366 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:19:59.368 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:19:59.370 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:19:59.426 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:19:59.428 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:19:59.430 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:19:59.515 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:19:59.517 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:19:59.518 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:19:59.561 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:19:59.563 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:19:59.565 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:19:59.617 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:19:59.619 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:19:59.621 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:19:59.659 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:19:59.667 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:19:59.670 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:19:59.707 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:19:59.710 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:19:59.711 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:19:59.748 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:19:59.750 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:19:59.751 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:19:59.789 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:19:59.791 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:19:59.793 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:19:59.861 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:19:59.864 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:19:59.868 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:19:59.930 [main] INFO  testCases.TC003_LoginDDT.verify_ligiDDT(TC003_LoginDDT.java:19)oggger - ***Starting TC003_LoginDDT...***
+12:20:12.113 [main] INFO  testCases.TC003_LoginDDT.verify_ligiDDT(TC003_LoginDDT.java:73)oggger - ***Finished TC003_LoginDDT...***
+12:20:12.121 [main] INFO  testCases.TC003_LoginDDT.verify_ligiDDT(TC003_LoginDDT.java:19)oggger - ***Starting TC003_LoginDDT...***
+12:20:28.323 [main] INFO  testCases.TC003_LoginDDT.verify_ligiDDT(TC003_LoginDDT.java:73)oggger - ***Finished TC003_LoginDDT...***
+12:20:28.333 [main] INFO  testCases.TC003_LoginDDT.verify_ligiDDT(TC003_LoginDDT.java:19)oggger - ***Starting TC003_LoginDDT...***
+12:20:43.380 [main] INFO  testCases.TC003_LoginDDT.verify_ligiDDT(TC003_LoginDDT.java:73)oggger - ***Finished TC003_LoginDDT...***
+12:20:43.389 [main] INFO  testCases.TC003_LoginDDT.verify_ligiDDT(TC003_LoginDDT.java:19)oggger - ***Starting TC003_LoginDDT...***
+12:20:57.985 [main] INFO  testCases.TC003_LoginDDT.verify_ligiDDT(TC003_LoginDDT.java:73)oggger - ***Finished TC003_LoginDDT...***
+12:20:57.991 [main] INFO  testCases.TC003_LoginDDT.verify_ligiDDT(TC003_LoginDDT.java:19)oggger - ***Starting TC003_LoginDDT...***
+12:21:03.014 [main] INFO  testCases.TC003_LoginDDT.verify_ligiDDT(TC003_LoginDDT.java:73)oggger - ***Finished TC003_LoginDDT...***
+12:31:29.855 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml"
+12:31:30.222 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml
+
+12:31:41.296 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:31:41.314 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:31:41.320 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:31:42.252 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:31:42.258 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:31:42.261 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:31:42.309 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:31:42.311 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:31:42.313 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:31:42.368 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:31:42.372 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:31:42.374 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:31:42.414 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:31:42.416 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:31:42.418 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:31:42.461 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:31:42.463 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:31:42.464 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:31:42.500 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:31:42.503 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:31:42.505 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:31:42.540 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:31:42.542 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:31:42.544 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:31:42.577 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:31:42.578 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:31:42.580 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:31:42.611 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:31:42.613 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:31:42.616 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:31:42.669 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:31:42.671 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:31:42.673 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:31:42.709 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:31:42.711 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:31:42.712 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:31:42.748 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:31:42.750 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:31:42.752 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:31:42.782 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:31:42.784 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:31:42.785 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:31:42.816 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:31:42.818 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:31:42.819 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:31:42.847 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:31:42.848 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:31:42.850 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:31:42.906 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:31:42.908 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:31:42.909 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:31:42.939 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:31:42.940 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:31:42.942 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:31:42.967 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:31:42.969 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:31:42.971 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:31:43.001 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:31:43.003 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:31:43.004 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+12:31:43.069 [main] INFO  testCases.TC003_LoginDDT.verify_ligiDDT(TC003_LoginDDT.java:19)oggger - ***Starting TC003_LoginDDT...***
+12:31:48.441 [main] INFO  testCases.TC003_LoginDDT.verify_ligiDDT(TC003_LoginDDT.java:73)oggger - ***Finished TC003_LoginDDT...***
+12:31:48.449 [main] INFO  testCases.TC003_LoginDDT.verify_ligiDDT(TC003_LoginDDT.java:19)oggger - ***Starting TC003_LoginDDT...***
+12:32:00.118 [main] INFO  testCases.TC003_LoginDDT.verify_ligiDDT(TC003_LoginDDT.java:19)oggger - ***Starting TC003_LoginDDT...***
+12:32:15.123 [main] INFO  testCases.TC003_LoginDDT.verify_ligiDDT(TC003_LoginDDT.java:73)oggger - ***Finished TC003_LoginDDT...***
+12:32:15.128 [main] INFO  testCases.TC003_LoginDDT.verify_ligiDDT(TC003_LoginDDT.java:19)oggger - ***Starting TC003_LoginDDT...***
+12:32:26.615 [main] INFO  testCases.TC003_LoginDDT.verify_ligiDDT(TC003_LoginDDT.java:19)oggger - ***Starting TC003_LoginDDT...***
+12:32:31.735 [main] INFO  testCases.TC003_LoginDDT.verify_ligiDDT(TC003_LoginDDT.java:73)oggger - ***Finished TC003_LoginDDT...***
+12:32:31.745 [main] INFO  testCases.TC003_LoginDDT.verify_ligiDDT(TC003_LoginDDT.java:19)oggger - ***Starting TC003_LoginDDT...***
+12:32:48.389 [main] INFO  testCases.TC003_LoginDDT.verify_ligiDDT(TC003_LoginDDT.java:73)oggger - ***Finished TC003_LoginDDT...***
+16:22:04.037 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\grouping.xml"
+16:22:04.512 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\grouping.xml
+
+16:22:24.014 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+16:22:24.796 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link
+16:22:25.676 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on Register Link
+16:22:25.681 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing Customer Details
+16:22:28.160 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating Expected Message...
+16:22:28.277 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:67)oggger - *** Finished TC001_AccountRegistrationTest ***
+16:22:36.282 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:18)oggger - ***Starting TC002_LoginTest  .... ***
+16:22:38.458 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:42)oggger - ***  Finished TC002_LoginTest .... ***
+16:25:36.999 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\grouping.xml"
+16:25:37.665 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\grouping.xml
+
+16:25:45.670 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:18)oggger - ***Starting TC002_LoginTest  .... ***
+16:25:48.093 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:42)oggger - ***  Finished TC002_LoginTest .... ***
+16:34:55.867 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml"
+16:34:56.268 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml
+
+16:35:04.861 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+16:35:05.040 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link
+16:35:06.149 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on Register Link
+16:35:06.153 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing Customer Details
+16:35:08.004 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating Expected Message...
+16:35:18.082 [main] ERROR testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:55)oggger - Test Failed.
+16:35:18.083 [main] DEBUG testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:56)oggger - Debug logs...
+16:35:24.978 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:18)oggger - ***Starting TC002_LoginTest  .... ***
+16:35:27.077 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:42)oggger - ***  Finished TC002_LoginTest .... ***
+16:06:15.383 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\grouping.xml"
+16:08:06.355 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\grouping.xml"
+16:08:07.269 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\grouping.xml
+
+16:08:55.108 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:18)oggger - ***Starting TC002_LoginTest  .... ***
+16:09:03.074 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:42)oggger - ***  Finished TC002_LoginTest .... ***
+16:37:38.821 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\grouping.xml"
+16:37:39.269 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\grouping.xml
+
+16:37:47.036 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+16:37:47.292 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link
+16:37:48.721 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on Register Link
+16:37:48.724 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing Customer Details
+16:37:50.819 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating Expected Message...
+16:37:51.185 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:67)oggger - *** Finished TC001_AccountRegistrationTest ***
+17:51:00.985 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\test-output\testng-failed.xml"
+17:51:02.587 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\test-output\testng-failed.xml
+
+17:51:35.988 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:18)oggger - ***Starting TC002_LoginTest  .... ***
+17:51:40.066 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:42)oggger - ***  Finished TC002_LoginTest .... ***
+16:38:36.701 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\test-output\testng-failed.xml"
+16:38:37.347 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\test-output\testng-failed.xml
+
+16:39:13.590 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:18)oggger - ***Starting TC002_LoginTest  .... ***
+16:39:15.894 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:42)oggger - ***  Finished TC002_LoginTest .... ***
+17:38:23.404 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml"
+17:39:53.264 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml"
+17:41:29.188 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml"
+17:45:07.922 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml"
+17:45:08.445 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml
+
+17:45:33.607 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+17:45:34.477 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link
+17:45:35.392 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on Register Link
+17:45:35.417 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing Customer Details
+17:45:38.358 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating Expected Message...
+17:45:38.490 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:67)oggger - *** Finished TC001_AccountRegistrationTest ***
+17:45:46.953 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:18)oggger - ***Starting TC002_LoginTest  .... ***
+17:45:49.376 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:42)oggger - ***  Finished TC002_LoginTest .... ***
+17:46:51.147 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml"
+17:46:51.575 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml
+
+17:47:01.741 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+17:47:02.269 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link
+17:47:03.179 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on Register Link
+17:47:03.183 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing Customer Details
+17:47:05.849 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating Expected Message...
+17:47:05.909 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:67)oggger - *** Finished TC001_AccountRegistrationTest ***
+17:47:24.253 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:18)oggger - ***Starting TC002_LoginTest  .... ***
+17:47:27.433 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:42)oggger - ***  Finished TC002_LoginTest .... ***
+17:49:35.534 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\crossBrowserTesting.xml"
+17:49:35.947 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\crossBrowserTesting.xml
+
+17:49:36.484 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+17:49:47.329 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+17:49:47.593 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link
+17:49:48.479 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on Register Link
+17:49:48.484 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing Customer Details
+17:49:51.905 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating Expected Message...
+17:49:51.963 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:67)oggger - *** Finished TC001_AccountRegistrationTest ***
+17:57:33.505 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\crossBrowserTesting.xml"
+17:57:35.252 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\crossBrowserTesting.xml
+
+17:57:36.869 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+17:57:56.100 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+17:57:56.392 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link
+17:57:57.936 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on Register Link
+17:57:57.947 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing Customer Details
+17:58:03.271 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating Expected Message...
+17:58:03.343 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:67)oggger - *** Finished TC001_AccountRegistrationTest ***
+17:48:56.246 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\grid_docker.xml"
+17:48:57.299 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\grid_docker.xml
+
+17:48:58.126 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+18:04:17.048 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\grid_docker.xml"
+18:04:17.554 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\grid_docker.xml
+
+18:04:18.087 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+20:33:21.963 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\grid_docker.xml"
+20:33:22.599 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\grid_docker.xml
+
+20:34:30.184 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+20:34:31.112 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link
+20:34:32.361 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on Register Link
+20:34:32.380 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing Customer Details
+20:34:42.857 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating Expected Message...
+20:34:43.240 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:67)oggger - *** Finished TC001_AccountRegistrationTest ***
+20:34:56.951 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:18)oggger - ***Starting TC002_LoginTest  .... ***
+20:35:00.967 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:42)oggger - ***  Finished TC002_LoginTest .... ***
+20:40:30.808 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\grid_docker.xml"
+20:40:31.403 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\grid_docker.xml
+
+20:40:40.730 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+20:40:41.178 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link
+20:40:42.050 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on Register Link
+20:40:42.111 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing Customer Details
+20:40:46.907 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating Expected Message...
+20:40:47.214 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:67)oggger - *** Finished TC001_AccountRegistrationTest ***
+20:40:53.995 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:18)oggger - ***Starting TC002_LoginTest  .... ***
+20:40:57.434 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:42)oggger - ***  Finished TC002_LoginTest .... ***
+20:44:56.596 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\grid_docker.xml"
+20:44:57.200 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\grid_docker.xml
+
+20:45:09.134 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+20:45:09.780 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link
+20:45:10.987 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on Register Link
+20:45:10.998 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing Customer Details
+20:45:15.294 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating Expected Message...
+20:45:15.598 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:67)oggger - *** Finished TC001_AccountRegistrationTest ***
+20:45:35.355 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:18)oggger - ***Starting TC002_LoginTest  .... ***
+20:45:39.153 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:42)oggger - ***  Finished TC002_LoginTest .... ***
+20:47:00.924 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\grid_docker.xml"
+20:47:01.467 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\grid_docker.xml
+
+20:47:01.978 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+21:01:11.310 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\grid_docker.xml"
+21:01:11.932 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\My_Workspace\SeleniumWebDriver\OpencartV121\grid_docker.xml
+
+21:01:19.077 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+21:01:19.507 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link
+21:01:20.163 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on Register Link
+21:01:20.169 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing Customer Details
+21:01:23.964 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating Expected Message...
+21:01:24.099 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:67)oggger - *** Finished TC001_AccountRegistrationTest ***
+21:01:39.855 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:18)oggger - ***Starting TC002_LoginTest  .... ***
+21:01:44.161 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:42)oggger - ***  Finished TC002_LoginTest .... ***
+23:55:54.569 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\grid_docker.xml"
+14:28:54.680 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml"
+14:32:46.149 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml"
+14:40:44.387 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml"
+15:18:06.223 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml"
+15:19:59.651 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:18)oggger - ***Starting TC002_LoginTest  .... ***
+15:20:10.559 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:42)oggger - ***  Finished TC002_LoginTest .... ***
+15:33:10.276 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml"
+15:34:47.107 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+15:34:48.419 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link
+15:34:49.364 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on Register Link
+15:34:49.431 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing Customer Details
+15:34:58.041 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating Expected Message...
+15:34:59.685 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:67)oggger - *** Finished TC001_AccountRegistrationTest ***
+15:35:44.963 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:18)oggger - ***Starting TC002_LoginTest  .... ***
+15:35:47.156 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:42)oggger - ***  Finished TC002_LoginTest .... ***
+17:46:26.932 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml"
+17:48:30.126 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+17:48:33.134 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link
+17:48:35.160 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on Register Link
+17:48:35.235 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing Customer Details
+17:48:42.100 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating Expected Message...
+17:48:45.224 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:67)oggger - *** Finished TC001_AccountRegistrationTest ***
+17:49:38.626 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:18)oggger - ***Starting TC002_LoginTest  .... ***
+17:49:41.933 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:42)oggger - ***  Finished TC002_LoginTest .... ***
+17:53:16.115 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\My_Workspace\SeleniumWebDriver\OpencartV121\master.xml"
+17:53:46.091 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - ***Starting TC001_AccountRegistrationTest***
+17:53:47.288 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link
+17:53:48.157 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on Register Link
+17:53:48.182 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing Customer Details
+17:53:51.923 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating Expected Message...
+17:53:52.210 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:67)oggger - *** Finished TC001_AccountRegistrationTest ***
+17:54:12.627 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:18)oggger - ***Starting TC002_LoginTest  .... ***
+17:54:15.282 [main] INFO  testCases.TC002_LoginTest.verify_Login(TC002_LoginTest.java:42)oggger - ***  Finished TC002_LoginTest .... ***
